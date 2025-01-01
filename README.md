@@ -9,7 +9,7 @@
       <a href="https://scholar.google.com/citations?user=s1m55YoAAAAJ&hl=zh-CN&oi=ao" target='_blank'>Shaoyuan Xie</a><sup>1</sup>&nbsp;&nbsp;&nbsp;
       <a href="https://scholar.google.com/citations?user=-j1j7TkAAAAJ&hl=zh-CN" target='_blank'>Lingdong Kong</a><sup>2,3</sup>&nbsp;&nbsp;&nbsp;
       <a href="https://scholar.google.com/citations?user=kMui170AAAAJ&hl=zh-CN&oi=ao" target='_blank'>Yuhao Dong</a><sup>2,4</sup>&nbsp;&nbsp;&nbsp;
-      <a href="https://scholar.google.com/citations?user=dgYJ6esAAAAJ&hl=zh-CN&oi=ao" target='_blank'>Chonghao Sima</a><sup>2,6</sup>&nbsp;&nbsp;&nbsp;<br>
+      <a href="https://scholar.google.com/citations?user=dgYJ6esAAAAJ&hl=zh-CN&oi=ao" target='_blank'>Chonghao Sima</a><sup>2,5</sup>&nbsp;&nbsp;&nbsp;<br>
       <a href="https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN&oi=ao" target='_blank'>Wenwei Zhang</a><sup>2</sup>&nbsp;&nbsp;&nbsp;
       <a href="https://scholar.google.com/citations?user=lcsu7m8AAAAJ&hl=zh-CN&oi=ao" target='_blank'>Qi Alfred Chen</a><sup>1</sup>&nbsp;&nbsp;&nbsp;
       <a href="https://scholar.google.com/citations?user=lc45xlcAAAAJ&hl=zh-CN&oi=ao" target='_blank'>Ziwei Liu</a><sup>4</sup>&nbsp;&nbsp;&nbsp;
